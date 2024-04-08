@@ -22,3 +22,8 @@ Benötige Menge 4 Säcke - 1 Sack ergibt 12,5 Liter - benötige Menge 46,8 Liter
 
 - Schrauben M6
 16 Stk.
+
+- [Armierungsgitter](https://www.bauhaus.at/armierungen/kantoflex-torstahl/p/10527222 "Armierungsgitter")
+hier sollte jedes Eisengitter ausreichen oder einfacher Rundstahl 
+
+- [Betonversiegelung](https://www.amazon.de/dp/B0B8WKD7WF/ref=twister_B0BWMXJ4MM?_encoding=UTF8&psc=1 "Betonversiegelung") - optional
